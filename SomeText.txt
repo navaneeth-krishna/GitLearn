@@ -1,2 +1,3 @@
 Pokemon - Gotta Catch'em All
 Charmander is a fire pokemon.
+Squirtel is a water pokemon
